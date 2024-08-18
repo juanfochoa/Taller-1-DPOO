@@ -1,0 +1,13 @@
+tipo:Extra:20000:970.0
+tipo:Corriente:14000:197.14285714285714
+tipo:Diesel:18000:80.0
+tipo:Ultra:25000:992.0
+surtidor:Felipe:Extra:30.0:Corriente:0.0:Diesel:0.0:Ultra:0.0
+surtidor:Maria:Extra:0.0:Corriente:2.857142857142857:Diesel:0.0:Ultra:0.0
+surtidor:Andres:Extra:0.0:Corriente:0.0:Diesel:100.0:Ultra:0.0
+surtidor:Paula:Extra:0.0:Corriente:0.0:Diesel:0.0:Ultra:8.0
+empleado:Andres:1800000
+empleado:Felipe:600000
+empleado:Juan:0
+empleado:Maria:40000
+empleado:Paula:200000
